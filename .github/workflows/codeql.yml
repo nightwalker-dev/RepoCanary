@@ -19,7 +19,7 @@ jobs:
     steps:
       # NOTE: Before public release, pin actions to full commit SHAs per docs/LAUNCH_CHECKLIST.md
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Initialize CodeQL
         uses: github/codeql-action/init@v3
