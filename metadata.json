@@ -1,0 +1,6 @@
+{
+  "name": "RepoCanary",
+  "description": "A canary in the coal mine for AI coding agents. See what your AI sees before it reads a repo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+# RepoCanary self-scan ignore configuration (.repocanaryignore)
+# Suppresses intentional test fixtures and security documentation files that quote attack patterns.
+
+tests/**
+src/ingest/samples.ts
+docs/RULES.md
+docs/DECISIONS.md
+docs/EVALUATION.md
+SECURITY.md
+THREAT_MODEL.md

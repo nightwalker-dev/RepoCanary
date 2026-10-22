@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="RepoCanary Social Preview">
+  <rect width="1200" height="630" fill="#0B0D10"/>
+  <rect x="40" y="40" width="1120" height="550" rx="16" fill="#12151B" stroke="#262C3A" stroke-width="3"/>
+  <text x="90" y="130" fill="#FFD43B" font-family="Inter, -apple-system, sans-serif" font-size="38" font-weight="bold">RepoCanary</text>
+  <text x="340" y="128" fill="#9CA3AF" font-family="JetBrains Mono, monospace" font-size="22">100% Client-Side Heuristic Inspector</text>
+  <line x1="90" y1="162" x2="1110" y2="162" stroke="#1E232D" stroke-width="2"/>
+  <text x="90" y="250" fill="#F3F4F6" font-family="Inter, -apple-system, sans-serif" font-size="54" font-weight="bold">A canary in the coal mine</text>
+  <text x="90" y="320" fill="#F3F4F6" font-family="Inter, -apple-system, sans-serif" font-size="54" font-weight="bold">for AI coding agents.</text>
+  <text x="90" y="395" fill="#FFD43B" font-family="Inter, -apple-system, sans-serif" font-size="44" font-weight="bold">See what your AI sees before it reads a repo.</text>
+  <text x="90" y="475" fill="#9CA3AF" font-family="JetBrains Mono, monospace" font-size="22">Detects Unicode Tag ASCII smuggling · Hidden HTML comments · Poisoned MCP configs · Auto-run hooks</text>
+  <text x="90" y="535" fill="#10B981" font-family="JetBrains Mono, monospace" font-size="20">Your code never leaves your browser · Zero telemetry · Open-source</text>
+</svg>
